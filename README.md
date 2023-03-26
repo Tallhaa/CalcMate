@@ -3,6 +3,7 @@
 CalcMate is a simple calculator application built using HTML, CSS, and JavaScript. It allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 
 ![Alt text](CalcMate.png)
+🔴 Live Demo  https://tallhaa.github.io/CalcMate/
 ## Getting Started
 
 To use CalcMate, simply open the `index.html` file in your web browser. The calculator interface will appear, and you can begin performing calculations by clicking on the buttons.
